@@ -93,12 +93,14 @@ npm install
 
 # Start development server
 npm run dev
-👩‍💻 Author
+
+
+###👩‍💻 Author
 Kirthika Rajendran
 (https://github.com/kiru-builds)
 
 (https://linkedin.com/in/kirthika)
 
-📄 License
+###📄 License
 MIT License — feel free to use this project for your portfolio!
 https://kiru-builds.github.io/
