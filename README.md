@@ -93,14 +93,57 @@ npm install
 
 # Start development server
 npm run dev
+## 👩‍💻 Author
 
+<div align="center">
 
-###👩‍💻 Author
-Kirthika Rajendran
-(https://github.com/kiru-builds)
+### *Kirthika Rajendran*
+#### AI Tools Developer | React | Python | Claude AI
 
-(https://linkedin.com/in/kirthika)
+[
 
-###📄 License
-MIT License — feel free to use this project for your portfolio!
-https://kiru-builds.github.io/
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+](https://github.com/kiru-builds)
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://linkedin.com/in/kirthika)
+[
+
+![Portfolio](https://img.shields.io/badge/Portfolio-D4A843?style=for-the-badge&logo=vercel&logoColor=white)
+
+](https://resumeiq-pro.vercel.app)
+
+</div>
+
+---
+
+## 📄 License
+
+<div align="center">
+
+### *MIT License*
+
+> *Copyright © 2025 Kirthika Rajendran*
+> 
+>Permission is granted to use, copy, modify and distribute this software freely.
+> This project is open source and available for portfolio use.
+
+**[View Full License](https://github.com/kiru-builds/resumeiq-pro/blob/main/LICENSE)**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ *Star this repo if it helped you!* ⭐
+
+**Built with ❤️ by [Kirthika Rajendran](https://github.com/kiru-builds)**
+
+*[🚀 Try Live Demo](https://resumeiq-pro.vercel.app) • [📊 Streamlit Version](https://resumeiq-pro.streamlit.app)*
+
+</div>
+
