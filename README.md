@@ -100,7 +100,8 @@ ResumeIQ Pro is a *professional-grade AI Resume Analyzer* that helps job seekers
 [
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-D4A843?style=for-the-badge&logo=vercel&logoColor=white)
-(https://kiru-builds.github.io/)
+
+](https://kiru-builds.github.io/)
 
 </div>
 
