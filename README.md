@@ -78,21 +78,6 @@ ResumeIQ Pro is a *professional-grade AI Resume Analyzer* that helps job seekers
 ### Prerequisites
 - Node.js 18+
 - Claude API Key from [console.anthropic.com](https://console.anthropic.com)
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/kiru-builds/resumeiq-pro.git
-
-# Navigate to project
-cd resumeiq-pro
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
 ## 👩‍💻 Author
 
 <div align="center">
@@ -146,4 +131,20 @@ npm run dev
 *[🚀 Try Live Demo](https://resumeiq-pro.vercel.app) • [📊 Streamlit Version](https://resumeiq-pro.streamlit.app)*
 
 </div>
+
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/kiru-builds/resumeiq-pro.git
+
+# Navigate to project
+cd resumeiq-pro
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
 
